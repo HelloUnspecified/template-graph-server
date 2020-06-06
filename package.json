@@ -21,7 +21,7 @@
     "@apollo/federation": "^0.10.2",
     "apollo-datasource-rest": "^0.6.5",
     "apollo-server": "^2.9.6",
-    "apollo-server-cloud-functions": "^2.9.6",
+    "apollo-server-cloud-functions": "^2.14.2",
     "connect": "^3.7.0",
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
